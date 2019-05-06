@@ -1,1 +1,1 @@
-# FriendFinder
+run npm i
